@@ -1,7 +1,7 @@
 This project consists of 3 codes 
   1. utilsnm.py 
-  2. English.py 
-  3. Japanese.py
+  2. english.py 
+  3. japanese.py
 
 Make sure that the data sets in the same flie path as the source code the data sets are: 1.English.txt 2.Japanese.txt
 
